@@ -20,5 +20,5 @@ Our documentation : [docs.simplefoc.com](https://docs.simplefoc.com)<br>
 Our youtube channel : [youtube.com/simplefoc](https://www.youtube.com/user/theskura)<br>
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC72nYRXqdAtYjgDeH8rRJqg?style=social) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC72nYRXqdAtYjgDeH8rRJqg?style=social)
 
-Project homepage : <br>
+Project homepage : [simplefoc.com](https://simplefoc.com)<br>
 [<img src='https://simplefoc.com/assets/img/simplefoc.com.png' height='20px'>](https://simplefoc.com)<br>

@@ -3,7 +3,7 @@
 
 This is a community project that aims to demystify Field Oriented Control (FOC) algorithm for the larger public by creating a robust but simple to use implementation of it in the Arduino IDE: Arduino *Simple**FOC**library*
 
-The library has a goal to support:
+The library has a goal to support: 🎯
 - as many **motor + position sensor + current sense + driver + microcontroller** combinations as possible.
 - as many BLDC and Stepper motor control techniques possible
 
